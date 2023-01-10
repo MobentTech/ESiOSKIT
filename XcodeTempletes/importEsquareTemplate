@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+
+cd $(dirname "$0")
+sudo cp -R Esquare\ Templates /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates/
